@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Tisha",
+      "email": "tisha@gmail.com",
+      "contact": "8823182612",
+      "address": "Delhi"
+    },
+    {
+      "id": "2",
+      "name": "Riva",
+      "email": "riva@gmail.com",
+      "contact": "8145082612",
+      "address": "Mumbai"
+    },
+    {
+      "id": "3",
+      "name": "Kesha",
+      "email": "kesha@gmail.com",
+      "contact": "8145082612",
+      "address": "Ahmedabad"
+    },
+    {
+      "id": "4",
+      "name": "Kriya",
+      "email": "kriya@gmail.com",
+      "contact": "8145082612",
+      "address": "Bangalore"
+    },
+    {
+      "id": "5",
+      "name": "Niva",
+      "email": "niva@gmail.com",
+      "contact": "8145082612",
+      "address": "Pune"
+    }
+  ]
+}
